@@ -1,7 +1,5 @@
 # Cipher_Crypto
 
-# Cipher
-
 ![ecc_encipherment](https://miro.medium.com/max/1160/1*fN1sBKNvVScvbpEFwyZR0Q.png)
 
 > Crypto = Cipher
