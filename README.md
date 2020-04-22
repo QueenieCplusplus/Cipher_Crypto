@@ -1,5 +1,7 @@
 # Cipher_Crypto
 
+One Key is kept private by the entity, and the other is made public available.
+
 ![ecc_encipherment](https://miro.medium.com/max/1160/1*fN1sBKNvVScvbpEFwyZR0Q.png)
 
 > Crypto = Cipher
